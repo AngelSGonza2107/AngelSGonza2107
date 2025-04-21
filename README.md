@@ -9,7 +9,7 @@
 </div>
 
 <!--- about me -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> About me </b>
+## <img src="assets/gifs/programmer.gif" width="25"> <b> About me </b>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](https://portal.ingenieria.usac.edu.gt/) at the [San Carlos University of Guatemala](https://www.usac.edu.gt/).
@@ -97,7 +97,7 @@
 
 -----
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="25"> <b> Let's Connect!</b>
+## <img src="assets/gifs/relationship.gif" width="25"> <b> Let's Connect!</b>
 
 <a href="https://www.linkedin.com/in/angel-gonza21074/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez-%230A66C2?style=for-the-badge&logo=linkedin&link=www.linkedin.com%2Fin%2F%20angel-gonza21074">
