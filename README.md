@@ -4,12 +4,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Angel Gonzalez!</h1></summary>
+    <summary><h1 style="display: inline-block"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> Hi, I'm Angel Gonzalez! <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> </h1></summary>
   </ul>
 </div>
 
 <!--- about me -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> About me </b>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](https://portal.ingenieria.usac.edu.gt/) at the [San Carlos University of Guatemala](https://www.usac.edu.gt/).
@@ -84,7 +84,7 @@
 
 -----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Github Stats </b>
 <br>
 
 <div>
@@ -97,7 +97,7 @@
 
 -----
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="25"> <b> Let's Connect!</b>
 
 <a href="https://www.linkedin.com/in/angel-gonza21074/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez-%230A66C2?style=for-the-badge&logo=linkedin&link=www.linkedin.com%2Fin%2F%20angel-gonza21074">
