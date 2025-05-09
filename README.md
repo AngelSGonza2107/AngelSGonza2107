@@ -137,7 +137,7 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
+  <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 AngelSGonza2107's streak" alt="AngelSGonza2107's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=AngelSGonza2107&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
@@ -147,9 +147,10 @@
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img title="🔥 AngelSGonza2107's Github Stats" alt="AngelSGonza2107's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AngelSGonza2107&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img title="🔥 AngelSGonza2107's Top Languages" alt="AngelSGonza2107's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AngelSGonza2107&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img title="🔥 AngelSGonza2107's Github Stats" alt="AngelSGonza2107's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AngelSGonza2107&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="185px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img title="🔥 AngelSGonza2107's Top Languages" alt="AngelSGonza2107's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AngelSGonza2107&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="185px"/></a>
+  </p>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
