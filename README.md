@@ -22,9 +22,9 @@
 ## <img src="assets/gifs/programmer.gif" width="25"> &#8287; <b> About me </b>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 225px></picture>
 <br>
-- :school: I am a `Computer Science & Systems Engineering Student` at [Faculty of Computers & Informatics](https://portal.ingenieria.usac.edu.gt/) at the [San Carlos University of Guatemala](https://www.usac.edu.gt/)
+- :school: I am a `Student` at [Faculty of Computers & Informatics](https://portal.ingenieria.usac.edu.gt/) at the [San Carlos University of Guatemala](https://www.usac.edu.gt/)
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning `Computer Science` and `Software Engineering`
+- :student: I’m currently learning `Computer Science` and `Software & Systems Engineering`
 - :nerd_face: Always `learning new things`
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://angelsgonza2107.github.io/CurriculumVitaeAG/)
 <br>
