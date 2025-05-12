@@ -37,18 +37,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-gonza21074/" target="_blank">
     <img title="LinkedIn - Angel González" alt="LinkedIn - Angel González" src="https://custom-icon-badges.demolab.com/badge/Angel%20González-0A66C2?style=for-the-badge&logo=linkein&logoColor=white"/></a>
-  <a href="https://youtube.com/@goonve21?si=awygkEaBx0ZdcPaG" target="_blank">
-    <img title="YouTube - Angel González" alt="YouTube - Angel González" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez%20-%20%23FF0000?style=for-the-badge&logo=YouTube"/></a>
-  <a href="https://x.com/GonVe_21" target="_blank">
-    <img title="X - Angel González" alt="X - Angel González" src="https://img.shields.io/badge/GonVe__21-%23000?style=for-the-badge&logo=x&logoColor=white&logoSize=auto"/></a>
-  <a href="mailto:angelprogonza2107@gmail.com">
-    <img title="Gmail - Angel González" alt="Gmail - Angel González" src="https://img.shields.io/badge/angelprogonza2107-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/708348495475507253" target="_blank">
-    <img title="Discord - Angel González" alt="Discord - Angel González" src="https://img.shields.io/badge/angelgonzaav-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:angelprogonza2107@gmail.com" target="_blank">
+    <img title="Gmail - Angel González" alt="Gmail - Angel González" src="https://img.shields.io/badge/angelprogonza2107-%23108922?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/AngelGoVel/" target="_blank">
     <img title="LeetCode - Angel González" alt="LeetCode - Angel González" src="https://img.shields.io/badge/AngelGoVel-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.kaggle.com/angelgonza21" target="_blank">
     <img title="Kaggle - Angel González" alt="Kaggle - Angel González" src="https://img.shields.io/badge/angelgonza21-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto1"/></a>
+  <a href="https://youtube.com/@goonve21?si=awygkEaBx0ZdcPaG" target="_blank">
+    <img title="YouTube - Angel González" alt="YouTube - Angel González" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez%20-%20%23FF0000?style=for-the-badge&logo=YouTube"/></a>
+  <a href="https://discord.com/users/708348495475507253" target="_blank">
+    <img title="Discord - Angel González" alt="Discord - Angel González" src="https://img.shields.io/badge/angelgonzaav-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://x.com/GonVe_21" target="_blank">
+    <img title="X - Angel González" alt="X - Angel González" src="https://img.shields.io/badge/GonVe__21-%23000?style=for-the-badge&logo=x&logoColor=white&logoSize=auto"/></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
