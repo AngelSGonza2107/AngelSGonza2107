@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-gonza21074/" target="_blank">
     <img title="LinkedIn - Angel González" alt="LinkedIn - Angel González" src="https://custom-icon-badges.demolab.com/badge/Angel%20González-0A66C2?style=for-the-badge&logo=linkein&logoColor=white"/></a>
-  <a href="www.youtube.com/@GoonVe21" target="_blank">
+  <a href="https://youtube.com/@goonve21?si=awygkEaBx0ZdcPaG" target="_blank">
     <img title="YouTube - Angel González" alt="YouTube - Angel González" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez%20-%20%23FF0000?style=for-the-badge&logo=YouTube"/></a>
   <a href="https://x.com/GonVe_21" target="_blank">
     <img title="X - Angel González" alt="X - Angel González" src="https://img.shields.io/badge/GonVe__21-%23000?style=for-the-badge&logo=x&logoColor=white&logoSize=auto"/></a>
