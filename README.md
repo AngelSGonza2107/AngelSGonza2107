@@ -41,9 +41,9 @@
     <img title="YouTube - Angel González" alt="YouTube - Angel González" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez%20-%20%23FF0000?style=for-the-badge&logo=YouTube"/></a>
   <a href="https://x.com/GonVe_21" target="_blank">
     <img title="X - Angel González" alt="X - Angel González" src="https://img.shields.io/badge/GonVe__21-%23000?style=for-the-badge&logo=x&logoColor=white&logoSize=auto"/></a>
-  <a href="mailto:angelprogonza2107@gmail.com" target="_blank">
+  <a href="mailto:angelprogonza2107@gmail.com">
     <img title="Gmail - Angel González" alt="Gmail - Angel González" src="https://img.shields.io/badge/angelprogonza2107-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.com/users/708348495475507253" target="_blank">
     <img title="Discord - Angel González" alt="Discord - Angel González" src="https://img.shields.io/badge/angelgonzaav-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://leetcode.com/u/AngelGoVel/" target="_blank">
     <img title="LeetCode - Angel González" alt="LeetCode - Angel González" src="https://img.shields.io/badge/AngelGoVel-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
