@@ -24,7 +24,7 @@
 <br>
 - :school: I am a `Student` at [Faculty of Computers & Informatics](https://portal.ingenieria.usac.edu.gt/) at the [San Carlos University of Guatemala](https://www.usac.edu.gt/)
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning `Computer Science` and `Software & Systems Engineering`
+- :student: I’m currently learning `Computer Science` and `Systems Engineering`
 - :nerd_face: Always `learning new things`
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://angelsgonza2107.github.io/CurriculumVitaeAG/)
 <br>
