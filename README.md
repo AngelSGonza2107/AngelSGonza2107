@@ -36,7 +36,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-gonza21074/" target="_blank">
-    <img title="LinkedIn - Angel González" alt="LinkedIn - Angel González" src="https://custom-icon-badges.demolab.com/badge/Angel%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2F%20angel-gonza21074"/></a>
+    <img title="LinkedIn - Angel González" alt="LinkedIn - Angel González" src="https://custom-icon-badges.demolab.com/badge/Angel%20González-0A66C2?style=for-the-badge&logo=linkein&logoColor=white&link=www.linkedin.com%2Fin%2F%20angel-gonza21074"/></a>
+  <a href="www.youtube.com/@GoonVe21" target="_blank">
+    <img title="YouTube - Angel González" alt="YouTube - Angel González" src="https://img.shields.io/badge/Angel%20Gonz%C3%A1lez%20-%20%23FF0000?style=for-the-badge&logo=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40GoonVe21"/></a>
   <a href="https://x.com/GonVe_21" target="_blank">
     <img title="X - Angel González" alt="X - Angel González" src="https://img.shields.io/badge/GonVe__21-%23000?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&link=https%3A%2F%2Fx.com%2FGonVe_21"/></a>
   <a href="mailto:angelprogonza2107@gmail.com" target="_blank">
