@@ -15,7 +15,7 @@
   <a href="https://github.com/AngelSGonza2107?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AngelSGonza2107?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/AngelSGonza2107">
-    <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AngelSGonza2107&style=for-the-badge&color=blueviolet&label=Profile%20Views"/></a>
+    <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=AngelSGonza2107&style=for-the-badge&color=blueviolet&label=Profile%20Views&abbreviated=true"/></a>
 </p>
 
 <!--- About Me -->
@@ -94,7 +94,7 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="WIX" src="https://img.shields.io/badge/WIX-%23FFCD30?style=flat&logo=wix&logoColor=white"></a>
+    <a href="#"><img alt="WIX" src="https://img.shields.io/badge/WIX-%23FFCD30?style=flat&logo=wix&logoColor=black"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -103,7 +103,7 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://custom-icon-badges.demolab.com/badge/Oracle-F00000.svg?logo=oraclee&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-F00000.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E?logo=amazon%20web%20services&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
@@ -112,7 +112,7 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-    <a href="#"><img alt="Adobe" src="https://custom-icon-badges.demolab.com/badge/Adobe-FF0000?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://custom-icon-badges.demolab.com/badge/Adobe-FF0000?logo=adobelogo&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-E95420.svg?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
