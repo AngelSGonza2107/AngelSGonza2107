@@ -19,19 +19,23 @@
 </p>
 
 <!--- About Me -->
+
 ## <img src="assets/gifs/programmer.gif" width="25"> &#8287; <b> About me </b>
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 225px></picture>
 <br>
+
 - :school: I am a `Student` at [Faculty of Computers & Informatics](https://portal.ingenieria.usac.edu.gt/) at the [San Carlos University of Guatemala](https://www.usac.edu.gt/)
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning `Computer Science` and `Systems Engineering`
 - :nerd_face: Always `learning new things`
 - :thinking: This is [MY RESUME](https://angelsgonza2107.github.io/CurriculumVitaeAG/)
-<br>
+  <br>
 
------
+---
 
 <!--- Social links -->
+
 ## <img src="assets/gifs/relationship.gif" width="25"> &#8287; <b> Let's Connect!</b>
 
 <p align="center">
@@ -126,7 +130,7 @@
 
 </details>
 
------
+---
 
 <!--- Github Stats -->
 <details>
@@ -151,21 +155,7 @@
   </p>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="🔥 AngelSGonza2107's Activity Graph" alt="AngelSGonza2107's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AngelSGonza2107&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 </details>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelSGonza2107/AngelSGonza2107/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelSGonza2107/AngelSGonza2107/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AngelSGonza2107/AngelSGonza2107/output/github-snake.svg" />
-  </picture>
-</p>
